@@ -1,5 +1,3 @@
 # testApplication
 
-Updating local history
-
-Testing branches
+Updated on master branch
