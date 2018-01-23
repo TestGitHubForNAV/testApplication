@@ -12,7 +12,7 @@ OBJECT Table 50005 TestTable5
   }
   FIELDS
   {
-    { 1   ;   ;Code                ;Code20         }
+    { 1   ;   ;Code                ;Code30         }
   }
   KEYS
   {
