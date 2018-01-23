@@ -1,0 +1,31 @@
+OBJECT Table 50005 TestTable5
+{
+  OBJECT-PROPERTIES
+  {
+    Date=01/23/18;
+    Time=11:52:04 AM;
+    Modified=Yes;
+    Version List=;
+  }
+  PROPERTIES
+  {
+  }
+  FIELDS
+  {
+    { 1   ;   ;Code                ;Code20         }
+  }
+  KEYS
+  {
+    {    ;Code                                    ;Clustered=Yes }
+  }
+  FIELDGROUPS
+  {
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
